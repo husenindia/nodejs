@@ -1,6 +1,7 @@
 module.exports.arraylength = function(arr){
     return (arr.length)
 }
+
 module.exports.sum = function(a,b) {
     return `Total of sum is: ${a+b}`;
 }
