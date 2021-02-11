@@ -5,4 +5,3 @@ myCustomEvent.on('someEvent', function(msg) {
 });
 myCustomEvent.emit('someEvent','Custom message');
 
-asdfsdfsa
