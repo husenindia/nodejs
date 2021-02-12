@@ -1,5 +1,5 @@
 var events = require('events');
-
+var util = require('util');
 var myCustomEvent = new events.EventEmitter();
 
 myCustomEvent.on('someEvent', function(msg) {
